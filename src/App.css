@@ -13,3 +13,21 @@ body {
   background: #000 url('./assets/grocery.jpg') no-repeat;
   background-size: cover;
 }
+
+.menuLateral {
+  background: #000 url('./assets/endless.jpg');
+  float: left;
+  background-size: cover;
+  padding: 30px;
+  margin-left: 20px;
+  width: 15%;
+  height: 568px;
+}
+.container {
+  background: #000 url('./assets/endless.jpg');
+  background-size: cover;
+  padding: 30px;
+  margin-top: 5%;
+  width: 60%;
+  height: 100%;
+}
